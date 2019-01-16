@@ -59,7 +59,7 @@ public class EjTelaAranaOtraForma {
 				}
 			}
 
-		} while (centinela);
+		} while (centinela); //variable de control
 
 		sca.close();
 		System.out.println("terminó");
